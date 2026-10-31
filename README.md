@@ -7,17 +7,17 @@ This project was created for CS330: Computational Graphics & Visualization at So
 The goal of the project was to build a 3D scene using OpenGL and apply concepts such as lighting, textures, transformations, and scene composition. Through this project, I gained hands-on experience with graphics programming and a better understanding of how 3D environments are created and rendered. 
 
 ## Technologies Used
--: C++
--: OpenGL
--: GLFW
+- C++
+- OpenGL
+- GLFW
 
 ## Skills Demonstrated
--: 3D Graphics Programming
--: Object Transformation
--: Lighting & Materials
--: Texture Mapping
--: Scene Design
--: Problem Solving
+- 3D Graphics Programming
+- Object Transformation
+- Lighting & Materials
+- Texture Mapping
+- Scene Design
+- Problem Solving
 
 ## What I Learned
 
